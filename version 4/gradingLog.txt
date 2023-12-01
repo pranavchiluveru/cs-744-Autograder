@@ -1,0 +1,144 @@
+202312011041579383:
+Processing is done.
+COMPILER ERROR
+
+code_202312011041579383.cpp:14:1: warning: null character(s) ignored
+   14 |  
+      | ^
+code_202312011041579383.cpp: In function ‘int main()’:
+code_202312011041579383.cpp:6:10: error: ‘i’ was not declared in this scope
+    6 |     for (i = 1; i <=10; ++i) {
+      |          ^
+###END###
+
+20231201104159886:
+Processing is done.
+PASS
+
+###END###
+
+202312011042002777:
+Processing is done.
+OUTPUT ERROR
+
+1c1
+< 0 1 2 3 4 5 6 7 8 9 10 
+---
+> 1 2 3 4 5 6 7 8 9 10 
+###END###
+
+202312011042016915:
+Processing is done.
+RUNTIME ERROR
+
+Floating point exception (core dumped)
+###END###
+
+202312011234309383:
+Processing is done.
+COMPILER ERROR
+
+code_202312011234309383.cpp:14:1: warning: null character(s) ignored
+   14 |  
+      | ^
+code_202312011234309383.cpp: In function ‘int main()’:
+code_202312011234309383.cpp:6:10: error: ‘i’ was not declared in this scope
+    6 |     for (i = 1; i <=10; ++i) {
+      |          ^
+###END###
+
+20231201123431886:
+Processing is done.
+PASS
+
+###END###
+
+202312011234312777:
+Processing is done.
+OUTPUT ERROR
+
+1c1
+< 0 1 2 3 4 5 6 7 8 9 10 
+---
+> 1 2 3 4 5 6 7 8 9 10 
+###END###
+
+202312011234326915:
+Processing is done.
+RUNTIME ERROR
+
+Floating point exception (core dumped)
+###END###
+
+202312011236197793:
+Processing is done.
+COMPILER ERROR
+
+code_202312011236197793.cpp:14:1: warning: null character(s) ignored
+   14 |  
+      | ^
+code_202312011236197793.cpp: In function ‘int main()’:
+code_202312011236197793.cpp:6:10: error: ‘i’ was not declared in this scope
+    6 |     for (i = 1; i <=10; ++i) {
+      |          ^
+###END###
+
+202312011236198335:
+Processing is done.
+PASS
+
+###END###
+
+202312011236205386:
+Processing is done.
+OUTPUT ERROR
+
+1c1
+< 0 1 2 3 4 5 6 7 8 9 10 
+---
+> 1 2 3 4 5 6 7 8 9 10 
+###END###
+
+20231201123620492:
+Processing is done.
+RUNTIME ERROR
+
+Floating point exception (core dumped)
+###END###
+
+202312011240349383:
+Processing is done.
+COMPILER ERROR
+
+code_202312011240349383.cpp:14:1: warning: null character(s) ignored
+   14 |  
+      | ^
+code_202312011240349383.cpp: In function ‘int main()’:
+code_202312011240349383.cpp:6:10: error: ‘i’ was not declared in this scope
+    6 |     for (i = 1; i <=10; ++i) {
+      |          ^
+###END###
+
+20231201124046886:
+Processing is done.
+PASS
+
+###END###
+
+202312011240502777:
+Processing is done.
+OUTPUT ERROR
+
+1c1
+< 0 1 2 3 4 5 6 7 8 9 10 
+---
+> 1 2 3 4 5 6 7 8 9 10 
+###END###
+
+202312011240546915:
+Processing is done.
+RUNTIME ERROR
+
+Floating point exception (core dumped)
+###END###
+
